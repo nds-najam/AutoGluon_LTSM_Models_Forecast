@@ -1,0 +1,24 @@
+{
+  "dataset": "ETTh1",
+  "target": "OT",
+  "variables": [
+    "HUFL",
+    "HULL",
+    "MUFL",
+    "MULL",
+    "LUFL",
+    "LULL",
+    "OT"
+  ],
+  "model": "Chronos-2",
+  "mode": "multivariate",
+  "prediction_length": 48,
+  "context_lengths": [
+    512,
+    1024,
+    2048
+  ],
+  "cross_learning": false,
+  "device": "cpu",
+  "torch_version": "2.11.0+cpu"
+}

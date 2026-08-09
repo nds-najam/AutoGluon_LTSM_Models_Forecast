@@ -1,0 +1,8 @@
+{
+  "context_length": 1024,
+  "cross_learning": false,
+  "MASE": 1.6350913047790527,
+  "MAE": 0.6665210127830505,
+  "RMSE": 0.8860266248758336,
+  "inference_time_seconds": 1.8100155829997675
+}
