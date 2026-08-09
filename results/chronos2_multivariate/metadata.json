@@ -16,7 +16,8 @@
   "context_lengths": [
     512,
     1024,
-    2048
+    2048,
+    8192
   ],
   "cross_learning": false,
   "device": "cpu",
